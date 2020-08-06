@@ -5,11 +5,11 @@ In this repo, we train a deep learning model to distinguish between x-ray images
 
 # Test it out
 
-To test out this punctuation restoration model, you just need to run [__Models.py__](https://github.com/vivianngo97/Punctuation_Transcription/blob/master/play.py). Please follow the steps below. Note that you may be required to install some modules using __requirements.txt__.
+To test out this punctuation restoration model, you just need to run [__Models.py__](https://github.com/vivianngo97/COVID-Bacterial-Pneumonia-Classifier-Run-Model/blob/master/Run_Model/Models.py). Please follow the steps below. Note that you may be required to install some modules using [__requirements.txt__](https://github.com/vivianngo97/COVID-Bacterial-Pneumonia-Classifier-Run-Model/blob/master/Run_Model/requirements.txt).
 
 ## Via Command Line:
-- Clone this repository COVID-19-X-ray-Classifier
-- Navigate to the directory : COVID-19-X-ray-Classifier/Run_Model
+- Clone this repository COVID-Bacterial-Pneumonia-Classifier-Run-Model
+- Navigate to the directory : COVID-Bacterial-Pneumonia-Classifier-Run-Model/Run_Model
 - Type __pip install -r requirements.txt__ to install the requirements from requirements.txt
 - Type __python Models.py__
 - You can now test out the model by following the prompts!
