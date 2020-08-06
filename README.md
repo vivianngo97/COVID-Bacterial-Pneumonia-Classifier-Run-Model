@@ -28,4 +28,4 @@ To test out this punctuation restoration model, you just need to run [__Models.p
 
 </code></pre>
 
-- If you are curious, you may also add your own image to COVID-19-X-ray-Classifier/Run_Model/Sample_Images and predict the classes of those.
+- If you are curious, you may also add your own image to COVID-Bacterial-Pneumonia-Classifier-Run-Model/Run_Model/Sample_Images and predict the classes of those.
