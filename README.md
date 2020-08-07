@@ -1,11 +1,11 @@
 # COVID and Bacterial Pneumonia Detector
 
-In [__COVID-19-X-ray-Classifier__](https://github.com/vivianngo97/COVID-19-X-ray-Classifier), we train a deep learning model to distinguish between x-ray images of healthy individuals and those with COVID-19 or bacterial pneumonia. Because that repo included all training and testing images, the repo became very large. In order to make experimentation easier for the public, we built this smaller repo.
+In [__COVID-19-X-ray-Classifier__](https://github.com/vivianngo97/COVID-19-X-ray-Classifier), we train a deep learning model to distinguish between x-ray images of healthy individuals and those with COVID-19 or bacterial pneumonia. Because that repo included all training and testing images, the repo became very large. In order to make experimentation easier for the public, we built this smaller repo. If you would like to run the 
 
 
 # Test it out
 
-To test out this punctuation restoration model, you just need to run [__Models.py__](https://github.com/vivianngo97/COVID-Bacterial-Pneumonia-Classifier-Run-Model/blob/master/Run_Model/Models.py). Please follow the steps below. Note that you may be required to install some modules using [__requirements.txt__](https://github.com/vivianngo97/COVID-Bacterial-Pneumonia-Classifier-Run-Model/blob/master/Run_Model/requirements.txt).
+To test out this classification model, you just need to run [__Models.py__](https://github.com/vivianngo97/COVID-Bacterial-Pneumonia-Classifier-Run-Model/blob/master/Run_Model/Models.py). Please follow the steps below. Note that you may be required to install some modules using [__requirements.txt__](https://github.com/vivianngo97/COVID-Bacterial-Pneumonia-Classifier-Run-Model/blob/master/Run_Model/requirements.txt).
 
 ## Via Command Line:
 - Clone this repository COVID-Bacterial-Pneumonia-Classifier-Run-Model
