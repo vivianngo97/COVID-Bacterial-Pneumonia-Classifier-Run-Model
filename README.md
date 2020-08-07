@@ -1,6 +1,8 @@
 # COVID and Bacterial Pneumonia Detector
 
-In [__COVID-19-X-ray-Classifier__](https://github.com/vivianngo97/COVID-19-X-ray-Classifier), we train a deep learning model to distinguish between x-ray images of healthy individuals and those with COVID-19 or bacterial pneumonia. Because that repo included all training and testing images, the repo became very large. In order to make experimentation easier for the public, we built this smaller repo. If you would like to run the 
+In [__COVID-19-X-ray-Classifier__](https://github.com/vivianngo97/COVID-19-X-ray-Classifier), we train a deep learning model to distinguish between x-ray images of healthy individuals and those with COVID-19 or bacterial pneumonia. Because that repo includes all training and testing images, the repo is very large. In order to make experimentation easier for the public, we built this smaller repo. 
+
+If you would like to run the model, please use this repository. If you would like to learn about the model training process or read our paper, please visit [COVID-19-X-ray-Classifier](https://github.com/vivianngo97/COVID-19-X-ray-Classifier).
 
 
 # Test it out
